@@ -7,11 +7,14 @@ To clone the repository and use the notebooks, both Git and Jupyter notebooks sh
 
 <h2>Cloning the Repository</h2> <br/>
 Navigate to the folder you wish to store the notebooks in.  Run the following in the command line:
-`git clone https://github.com/alexglyndavies/4M24`
-
+```bash 
+git clone https://github.com/alexglyndavies/4M24
+```
 
 <h2>Using the Notebooks</h2> <br/>
 Again, navigate to the folder containing the notebooks and execute the following command in the command line:
-`jupyter notebook`
+```bash 
+jupyter notebook
+```
 
 Done.
