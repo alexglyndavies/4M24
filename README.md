@@ -21,4 +21,6 @@ Again, navigate to the folder containing the notebooks and execute the following
 jupyter notebook
 ```
 
-This will start a local server where the notebooks will run from.  The notebooks can now be adapted, added to and saved on your machine.
+This will start a local server where the notebooks will run from.  The notebooks can now be adapted, added to and saved on your machine. <br/>
+
+For those who have the Python package manager Anaconda installed, you can easily run Jupyter notebooks from the Anaconda-Navigator.
